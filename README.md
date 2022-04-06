@@ -1,3 +1,5 @@
+CLONED from https://github.com/shavo007/spring-integ-demo - Thanks Shane
+
 # Spring integration tests
 
 [![.github/workflows/push.yml](https://github.com/shavo007/spring-integ-demo/actions/workflows/push.yml/badge.svg)](https://github.com/shavo007/spring-integ-demo/actions/workflows/push.yml)
